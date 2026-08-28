@@ -3,12 +3,12 @@ OB-GYN Doctors Services and Diagnosis Dashboard provides a summary of doctors’
 
 **BUSINESS OBJECTIVES**
 -Monitor the clinic's overall revenue and transactions.
--Identify which doctors generate the most revenue.
 -Identify the average waiting time and consultation time per doctor.
 -Identify the average waiting time and consultation time per day.
 -Understand patient volume per day.
 -Identify which services are performed most frequently.
 -Identify the most common patient diagnoses.
+-Identify which municipality have most patient.
 
 **TOOLS AND TECHNOLOGIES**
 POWER BI – Dashboard development, data visualization, and DAX measures for metric calculations.
@@ -23,11 +23,6 @@ Average Consultation Time per Day
 Average Waiting Time
 Average Waiting Time per Day
 
-**DASHBOARD PAGES**
-**OVERVIEW** – The dashboard Overview page provides stakeholders with an overall view of the clinic's transactions, including successful vs. unsuccessful appointments, revenue over time, top-performing doctors, revenue by municipality, and the total number of appointments by status.
-**DOCTOR** – The dashboard Doctor page provides stakeholders with an overview of transactions per doctor, including total patients, average consultation time, average waiting time, monthly total patients and appointments, the number of successful and unsuccessful appointments, monthly revenue, completed appointments by municipality, top services, and total completed appointments per day.
-**SERVICES** – overview of service transactions, including the top 2 services per month, total appointments, total patients by municipality, total appointment records by municipality, total revenue, and total patients.
-**DIAGNOSIS** – overview of diagnosis-related transactions, including the top diagnosis per service, the number of patients with each diagnosis, the total number of patients by diagnosis and service, and the total number of patients per doctor for each diagnosis.
 
 **INSIGHT**
 1. The dataset does not identify whether an appointment is an initial consultation or a follow-up visit. As a result, the analysis cannot determine which doctors manage the highest number of follow-up appointments or evaluate patient continuity of care
