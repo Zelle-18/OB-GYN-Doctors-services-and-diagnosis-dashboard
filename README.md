@@ -25,10 +25,14 @@ Average Waiting Time per Day
 
 
 **INSIGHT**
-1. The dataset does not identify whether an appointment is an initial consultation or a follow-up visit. As a result, the analysis cannot determine which doctors manage the highest number of follow-up appointments or evaluate patient continuity of care
+1. The dataset does not identify whether an appointment is an initial consultation or a follow-up visit. As a result, the analysis cannot determine which doctors manage the highest number of follow-up appointments or evaluate patient continuity of care.
+
 2. Prenatal Checkup generated both the highest revenue and the highest number of completed appointments, suggesting that it is the clinic's core service and the primary contributor to patient volume and revenue. In contrast, Postpartum Checkup recorded the fewest completed appointments and unique patients, suggesting lower demand during the reporting period.
-3.A higher number of completed appointments does not necessarily result in higher revenue. Revenue generation is influenced by multiple factors, including consultation fees, service mix, and the number of completed appointments.
+
+3. A higher number of completed appointments does not necessarily result in higher revenue. Revenue generation is influenced by multiple factors, including consultation fees, service mix, and the number of completed appointments.
+
 4. The clinic averaged approximately five unique patients per clinic day. Without information on clinic capacity, appointment schedules, or operating hours, it cannot be determined whether this represents underutilization or full utilization of available resources.
+
 5. Consultation and waiting times are highly consistent across doctors
 
 **RECOMMENDATION**
