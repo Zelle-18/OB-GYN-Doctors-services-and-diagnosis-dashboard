@@ -32,6 +32,7 @@ Average Waiting Time per Day
 5. Consultation and waiting times are highly consistent across doctors
 
 **RECOMMENDATION**
+
 1.Enhance the appointment database by adding fields that identify whether an appointment is an initial consultation or a follow-up visit. This would enable future analyses of patient retention, continuity of care, and follow-up compliance.
 
 2. Continue prioritizing promoting Prenatal Checkup by maintaining a high quality service and promoting its importance through patient education, as it is the clinic's primary revenue-generating service. At the same time, increase awareness of Postpartum Checkup by educating patients on the importance of postnatal care through health campaigns, educational materials, or social media.
